@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "840324281760",
+    "firebase_url": "https://wecaht-2440b.firebaseio.com",
+    "project_id": "wecaht-2440b",
+    "storage_bucket": "wecaht-2440b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840324281760:android:6d2c5519ab23d76f96a0c5",
+        "android_client_info": {
+          "package_name": "com.example.wecaht"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840324281760-0nprd93emlc66jjmsj6vnft86vmoi4vl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wecaht",
+            "certificate_hash": "2366edbd1db146be78adc90b54ca9a460d77e121"
+          }
+        },
+        {
+          "client_id": "840324281760-lol02mscrtcvv2vdumisbjn9ummplgd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgYHdMSHH0dfE8cbH43jlz2iCpRhSY0FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840324281760-lol02mscrtcvv2vdumisbjn9ummplgd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
