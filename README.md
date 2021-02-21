@@ -3,7 +3,7 @@ This Chat application helps to communicate people from one another. This applica
 In this application we are using a real time database which is firebase in which user login name and password will be stored also it will store all the messages done between two people.
 
 # Login Page
-<img src="Screenshot(1).jpg" width="auto">
+<img src="Screenshort(1).jpg" width="auto" height="330px">
 
 # Register Page
 <img src="Screenshot(2).jpg" width="auto">
